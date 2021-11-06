@@ -1,2 +1,3 @@
 # Git_help
-Краткая шпаргалка по Git.
+Ru. Краткая шпаргалка по Git.
+Eng. Git cheat sheet
